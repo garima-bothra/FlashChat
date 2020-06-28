@@ -21,7 +21,7 @@ This app provides a custom chatroom for users. It can be used as a family chatro
  * Clone or download the app from this repository. 👩‍💻
  * Open project file in terminal. 💻
  * Run `pod intall` to install all dependencies. 📥
- * Open the `Flashchat.workspace` file. 💾
+ * Open the `Flash Chat.workspace` file. 💾
  * Change the bundle identifier. ⚙️
  * Press `Ctrl + R` to run the app. 📲
  * Do star this repo and/or contribute if you like it.🙂
