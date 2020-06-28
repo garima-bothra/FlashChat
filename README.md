@@ -11,7 +11,6 @@ A custom chatroom application.
 <img alt="iOS" src="https://img.shields.io/badge/iOS-11-orange">
 <img alt="Pods" src="https://img.shields.io/badge/COCOAPODS-1.7.5-blue">
 <img alt="Swift" src="https://img.shields.io/badge/FirebaseDatabase-6.18.0-brightgreen">
-<img alt="SwiftyJSON" src="https://img.shields.io/badge/SwiftyJSON-5.0.0-yellow">
 </p>
 
 ## Introduction ##
@@ -33,7 +32,8 @@ This app provides a custom chatroom for users. It can be used as a family chatro
  ## Libraries used in the project 📥 ##
  * UIKit
  * Firebase
- * SwiftyJSON
+ * SVProgressHUD
+ * ChameleonFramework
 
  ## Author 👩‍💻 ##
  [Garima Bothra](https://github.com/garima94921)
